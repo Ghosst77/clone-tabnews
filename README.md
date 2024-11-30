@@ -1,2 +1,2 @@
 # clone-tabnews
-Implementação - treino programaçaõ
+Implementação - treino programação - https://curso.dev
