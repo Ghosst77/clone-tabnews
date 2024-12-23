@@ -1,0 +1,54 @@
+[33mcommit 0ff7b7f04b594d42c454f6389af3541b12b72d98[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Mat77 <141176499+Ghosst77@users.noreply.github.com>
+Date:   Sun Dec 15 20:29:48 2024 +0000
+
+    adicionado pages
+
+ pages/index.js | 5 [32m+++++[m
+ 1 file changed, 5 insertions(+)
+
+[33mcommit eb0e920efffb85b74d494054ebe3beec6b1f9146[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Mat77 <141176499+Ghosst77@users.noreply.github.com>
+Date:   Sun Dec 15 20:26:24 2024 +0000
+
+    adicionado arquivos .json - package e package-lock
+
+ package-lock.json | 457 [32m+++++++++++++++++++++++++++++++++[m
+ package.json      |  15 [32m++[m
+ 2 files changed, 472 insertions(+)
+
+[33mcommit 1808dadd91818c7bc660e6c3c87ca777a9128643[m
+Author: Mat77 <141176499+Ghosst77@users.noreply.github.com>
+Date:   Sun Dec 15 20:17:48 2024 +0000
+
+    Adicionado arquivo .nvmrc
+
+ .nvmrc | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
+
+[33mcommit 97d80e92473fb7f7186e87b4e6fa8a93b28add65[m
+Author: Mat77 <141176499+Ghosst77@users.noreply.github.com>
+Date:   Sat Dec 14 00:32:10 2024 +0000
+
+    adiciona o .gitignore
+
+ .gitignore | 2 [32m++[m
+ 1 file changed, 2 insertions(+)
+
+[33mcommit 626d5e8c9864b525aae64a46f84f351ec3538baf[m
+Author: Mat77 <141176499+Ghosst77@users.noreply.github.com>
+Date:   Sat Nov 30 19:31:21 2024 -0300
+
+    Update README.md
+
+ README.md | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit d28069613f53dc47e96ccdfe10a5132716239f88[m
+Author: Mat77 <141176499+Ghosst77@users.noreply.github.com>
+Date:   Sat Nov 30 19:23:31 2024 -0300
+
+    Initial commit
+
+ README.md | 2 [32m++[m
+ 1 file changed, 2 insertions(+)
